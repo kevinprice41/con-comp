@@ -1,0 +1,2 @@
+serviceClass: com.prizyp.cc.comp.client.GreetingService
+path: 6DDA34CB5A198E2688D1BE2EF42F6FC9.gwt.rpc
